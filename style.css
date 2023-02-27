@@ -1,9 +1,29 @@
 header {
     background-image: url("img/pattern.png");
     background-repeat: repeat;
-    
+    }
+
+.booleaner {
+    width: 200px;
+    height: auto;
 }
 
+
+
+
+
+
+#custom {
+    width: 100%;
+    }
+
+.tab1 {
+    background-color: rgb(0, 158, 158);
+}
+
+.tab2 {
+    background-color: aquamarine;
+}
 
 .riga {
     background-color: yellow;
